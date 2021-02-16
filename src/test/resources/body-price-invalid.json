@@ -1,0 +1,181 @@
+{
+  "showInStockOnly": true,
+  "products": [
+    {
+      "productId": "4873363",
+      "type": "product",
+      "title": "Ghost Astrid Floral Dress, Navy Clusters",
+      "htmlTitle": "",
+      "code": "18850785",
+      "averageRating": 5,
+      "reviews": 1,
+      "price": {
+        "was": "149.00",
+        "then1": "34.00",
+        "then2": "43.00",
+        "now": "74.50",
+        "uom": "",
+        "currency": "GBP"
+      },
+      "image": "//johnlewis.scene7.com/is/image/JohnLewis/004493077?",
+      "displaySpecialOffer": "Reduced To Clear",
+      "promoMessages": {
+        "reducedToClear": true,
+        "priceMatched": "",
+        "offer": "Reduced To Clear",
+        "customPromotionalMessage": "",
+        "bundleHeadline": "",
+        "customSpecialOffer": {}
+      },
+      "nonPromoMessage": "Online only",
+      "defaultSkuId": "238346446",
+      "colorSwatches": [
+        {
+          "color": "",
+          "basicColor": "Blue",
+          "colorSwatchUrl": "//johnlewis.scene7.com/is/image/JohnLewis/004493077alt4?cropN=0.4442105263157895,0.13473684210526315,0.10947368421052632,0.10947368421052632&",
+          "imageUrl": "//johnlewis.scene7.com/is/image/JohnLewis/004493077?",
+          "isAvailable": true,
+          "skuId": "238346446"
+        }
+      ],
+      "colorSwatchSelected": 0,
+      "colorWheelMessage": "",
+      "outOfStock": false,
+      "emailMeWhenAvailable": false,
+      "availabilityMessage": "",
+      "compare": false,
+      "fabric": "",
+      "swatchAvailable": false,
+      "categoryQuickViewEnabled": true,
+      "swatchCategoryType": "",
+      "brand": "Ghost",
+      "ageRestriction": 0,
+      "isInStoreOnly": false,
+      "isMadeToMeasure": false,
+      "isBundle": false,
+      "isProductSet": false,
+      "promotionalFeatures": [],
+      "features": [],
+      "dynamicAttributes": {
+        "dressshape": "Fit and Flare",
+        "typeofpattern": "Floral",
+        "fabric": "Synthetic",
+        "dressbyoccasion": "Day"
+      },
+      "directorate": "Fashion Directorate",
+      "futureRelease": false,
+      "multiSku": true,
+      "fabricByLength": false,
+      "quickAddToBasket": {
+        "showPermanentOos": false,
+        "showMoreInfoRedirectPDP": false,
+        "simpleAddToBasket": false,
+        "simpleMobileEmailMe": false,
+        "showEmailMeTriggerQV": false,
+        "showChooseSizeTriggerQV": true
+      },
+      "permanentOos": false
+    },
+    {
+      "productId": "4619162",
+      "type": "product",
+      "title": "Damsel in a Dress Lydia City Suit Dress",
+      "htmlTitle": "",
+      "code": "18951128",
+      "averageRating": 0,
+      "reviews": 0,
+      "price": {
+        "was": {
+          "from": "280.00",
+          "to": "290.00"
+        },
+        "then1": {
+          "from": "140.00",
+          "to": "203.00"
+        },
+        "then2": "",
+        "now": {
+          "from": "98.00",
+          "to": "142.10"
+        },
+        "uom": "",
+        "currency": "GBP"
+      },
+      "image": "//johnlewis.scene7.com/is/image/JohnLewis/004317541?",
+      "displaySpecialOffer": "Reduced To Clear",
+      "promoMessages": {
+        "reducedToClear": true,
+        "priceMatched": "",
+        "offer": "Reduced To Clear",
+        "customPromotionalMessage": "",
+        "bundleHeadline": "",
+        "customSpecialOffer": {}
+      },
+      "nonPromoMessage": "",
+      "defaultSkuId": "238295051",
+      "colorSwatches": [
+        {
+          "color": "Black",
+          "basicColor": "Black",
+          "colorSwatchUrl": "//johnlewis.scene7.com/is/image/JohnLewis/004317541?cropN=0.42105263157894735,0.42105263157894735,0.16842105263157894,0.16842105263157894&",
+          "imageUrl": "//johnlewis.scene7.com/is/image/JohnLewis/004317541?",
+          "isAvailable": true,
+          "skuId": "238295051"
+        }
+      ],
+      "colorSwatchSelected": 0,
+      "colorWheelMessage": "",
+      "outOfStock": false,
+      "emailMeWhenAvailable": false,
+      "availabilityMessage": "",
+      "compare": false,
+      "fabric": "",
+      "swatchAvailable": false,
+      "categoryQuickViewEnabled": true,
+      "swatchCategoryType": "",
+      "brand": "Damsel in a Dress",
+      "ageRestriction": 0,
+      "isInStoreOnly": false,
+      "isMadeToMeasure": false,
+      "isBundle": false,
+      "isProductSet": false,
+      "promotionalFeatures": [],
+      "features": [],
+      "dynamicAttributes": {
+        "dressshape": "Pencil",
+        "typeofpattern": "Plain",
+        "fabric": "Polyester",
+        "dressbyoccasion": "Casual"
+      },
+      "directorate": "Fashion Directorate",
+      "futureRelease": false,
+      "multiSku": true,
+      "fabricByLength": false,
+      "quickAddToBasket": {
+        "showPermanentOos": false,
+        "showMoreInfoRedirectPDP": false,
+        "simpleAddToBasket": false,
+        "simpleMobileEmailMe": false,
+        "showEmailMeTriggerQV": false,
+        "showChooseSizeTriggerQV": true
+      },
+      "permanentOos": false
+    }
+  ],
+  "results": 7381,
+  "pagesAvailable": 308,
+  "crumbs": [
+    {
+      "clickable": "false",
+      "displayName": "Search results ‘dresses’",
+      "type": "SEARCH"
+    }
+  ],
+  "pageInformation": {
+    "title": "Filtered search results for \"dresses\" | John Lewis & Partners",
+    "noIndex": false,
+    "noFollow": false
+  },
+  "baseFacetId": ""
+}

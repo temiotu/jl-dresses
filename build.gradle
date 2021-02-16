@@ -1,0 +1,35 @@
+plugins {
+    id 'java'
+    id 'war'
+    id 'org.springframework.boot' version '2.4.2'
+    id 'io.spring.dependency-management' version '1.0.11.RELEASE'
+    id "io.freefair.lombok" version "5.3.0"
+}
+
+group 'com.interview'
+version '1.0-SNAPSHOT'
+sourceCompatibility = '1.11'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation 'org.springframework.boot:spring-boot-starter-web'
+    implementation 'org.projectlombok:lombok:1.18.16'
+    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.8.0-M1'
+    testCompile 'org.mockito:mockito-junit-jupiter:3.7.7'
+    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.8.0-M1'
+    testCompile 'org.assertj:assertj-core:3.19.0'
+    compile 'com.google.code.gson:gson:2.8.6'
+    testCompile 'org.hamcrest:java-hamcrest:2.0.0.0'
+    compile 'commons-io:commons-io:2.8.0'
+    testCompile 'org.mockito:mockito-core:3.7.7'
+    compile 'org.apache.commons:commons-collections4:4.4'
+    compile 'com.google.guava:guava:30.1-jre'
+    compile 'org.apache.commons:commons-lang3:3.11'
+}
+
+test {
+    useJUnitPlatform()
+}
